@@ -1,0 +1,10 @@
+t?o database tên: dangkyhoc và import d? li?u b?ng file dangkyhoc.sql
+truy c?p vào http://localhost/dangkyhoc/login.php
+ð? ðãng nh?p,
+username: manhthuong
+password: 12345
+ho?c t?o m?t tài kho?n m?i.
+ð? truy c?p vào v?i quy?n admin ch?n ðãng nh?p v?i quy?n admin
+username: admin
+password: admin.
+file gi?i thi?u v? trang web e ð? trong file word ?.
